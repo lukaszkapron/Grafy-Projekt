@@ -1,0 +1,17 @@
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.exe
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.deps.json
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.runtimeconfig.json
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.runtimeconfig.dev.json
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.dll
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\bin\Debug\netcoreapp3.1\Grafy.pdb
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.csproj.AssemblyReference.cache
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.Form1.resources
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.csproj.GenerateResource.cache
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.AssemblyInfoInputs.cache
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.AssemblyInfo.cs
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.csproj.CoreCompileInputs.cache
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.dll
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.pdb
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.genruntimeconfig.cache
+E:\Łukasz\Programowanie\Projekty\Grafy\Grafy\obj\Debug\netcoreapp3.1\Grafy.Properties.Resources.resources
