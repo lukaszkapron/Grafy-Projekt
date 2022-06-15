@@ -93,7 +93,19 @@ namespace Grafy
         // Button Szukaj cyklu
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            List <TextBox> listaTextBoxow = new List<TextBox>();
+
+            for (int i = 0; i < flowLayoutPanel1.Controls.Count; i++)
+            {
+                if (flowLayoutPanel1.Controls[i] is TextBox)
+                {
+                    listaTextBoxow.Add((TextBox)flowLayoutPanel1.Controls[i]);
+                }
+            }
+
+
+            //TextBox x = listaTextBoxow[5];
+            //label8.Text = x.Text;
         }
 
         // Button do Listy
@@ -141,11 +153,12 @@ namespace Grafy
                 flowLayoutPanel1.Controls.Add(lStrzalka);
                 flowLayoutPanel1.Controls.Add(tKoniec);
             }
-        }
 
+        }
         private void label4_Click(object sender, EventArgs e)
         {
-
+            var x = flowLayoutPanel1.Controls.GetType(); ;
         }
+
     }
 }
